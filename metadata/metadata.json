@@ -1,0 +1,16 @@
+{
+  "name": "Mingo Assets",
+  "version": "1.0.0",
+  "description": "Assets for the Mingo project including logos and related metadata.",
+  "files": {
+    "logos": [
+      {
+        "file": "logos/Mingo.png",
+        "type": "image/png",
+        "sha256": null,
+        "width": null,
+        "height": null
+      }
+    ]
+  }
+}
