@@ -1,16 +1,11 @@
 {
-  "name": "Mingo Assets",
-  "version": "1.0.0",
-  "description": "Assets for the Mingo project including logos and related metadata.",
-  "files": {
-    "logos": [
-      {
-        "file": "logos/Mingo.png",
-        "type": "image/png",
-        "sha256": null,
-        "width": null,
-        "height": null
-      }
-    ]
+  "name": "NiggaMingo",
+  "symbol": "Mingo",
+  "description": "Mingo is the voice of the people — raw, real, and unbreakable 💎. More than a coin, it’s a destiny written on Solana’s chain 🔥🌍",
+  "image": "https://raw.githubusercontent.com/abolafasnaeii/nigamingo-asstes/refs/heads/main/logos/Mingo.png",
+  "external_url": "https://niggamingo.vip",
+  "extensions": {
+    "twitter": "https://x.com/NIGGAMINGOW?s=09",
+    "telegram": "https://t.me/NIGGAMINGOOFFICIAL"
   }
 }
